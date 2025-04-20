@@ -1,0 +1,1 @@
+creates server with TCP. connects to local ip and you can chat with ur self :))) also able to switch names and go anom mode where ur name is anonyymi well its made quick so its not the best one but this one is part of my c# learning journey and this time i wanted to learn networking and socket stuff :) 
